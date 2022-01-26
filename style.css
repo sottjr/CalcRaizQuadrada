@@ -1,0 +1,11 @@
+img {
+    float: left;
+    width: 20%;
+    height: 20%;
+    margin: 20px;
+}
+.texto {
+    justify-content: left;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
